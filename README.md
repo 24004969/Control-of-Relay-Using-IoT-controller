@@ -1,6 +1,6 @@
 ### NAME : AJAY.J
 ### REG NO :24004969
-# EXPERIMENT 2: Control of Relay Using IoT controller
+# EXPERIMENT 2: Control of Relay Using Arduino controller
 
 ##  AIM:
 To control the Relay using Arduino controller
